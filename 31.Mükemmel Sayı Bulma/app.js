@@ -1,0 +1,4 @@
+// mükemmel sayı bulma
+
+/* 
+ */
