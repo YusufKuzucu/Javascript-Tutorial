@@ -12,7 +12,6 @@
 //     console.log(a);
 // }
 
-
 // function Scope
 // function method(){
 //     var sayi=1;

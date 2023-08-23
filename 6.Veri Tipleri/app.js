@@ -25,7 +25,6 @@ console.log(b); // değer vermediğimiz için undifined yazıcak
 let insan ={
     yaş:12,
     name:"yusuf",
-
 }
 console.log(insan);
 

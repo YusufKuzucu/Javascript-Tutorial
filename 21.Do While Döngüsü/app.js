@@ -29,4 +29,5 @@ do{
     }
     sayac++;
 }while(sayac<=20);
-console.log(toplam  )
+
+console.log(toplam)
